@@ -1,4 +1,4 @@
-# Rock Linux Documentation How-To Contribute Guide #
+# Rock Linux Documentation How-To Contribute Guide  #
 
 ## Introduction ##
 
